@@ -15,6 +15,7 @@
 ## 🚀 Demo
 
 Here’s a quick look at the AI Agent in action 👇
+ 
 ![AI Agent Demo](./assets/travel-buddy-demo.gif)
 
 ---
@@ -37,15 +38,15 @@ Here’s a quick look at the AI Agent in action 👇
 
 ## 🛠️ Tech Stack
 
-- **Frameworks**: LangGraph
-- **Architecture**: ReAct
+- **Frameworks**: ```LangGraph```
+- **Architecture**: ```ReAct```
 - **Database**: IBM Object Cloud
-- **Frontend**: <Not_yet>
+- **Model**: ```mistralai/mistral-large``` & ```meta-llama/llama-3-2-11b-vision-instruct```
 
 ---
 ---
 
-## ⚙️ Architecture Overview
+## ⚙️Agent Workflow Overview
 
 ```mermaid
 
@@ -66,10 +67,10 @@ flowchart TD
 | Agent UI Example                                                                        | Response Example                                                                      |
 |-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | <img src="./assets/ui_on_ibm_cloud.png" alt="UI on IBM Cloud" width="500"/>             | <img src="./assets/ui_query_responce.png" alt="UI on IBM Cloud" width="500"/>         |
-| <img src="./assets/query_about_circuit_kolkata.png" alt="UI on IBM Cloud" width="500"/> | <img src="./assets/responce of circuit query.png" alt="UI on IBM Cloud" width="500"/> |
-| <img src="./assets/time_specific_plan.png" alt="UI on IBM Cloud" width="500"/>          | <img src="./assets/top_10_hill_station.png" alt="UI on IBM Cloud" width="500"/>       | 
+| <img src="./assets/query_about_circuit_kolkata.png" alt="UI on IBM Cloud" width="500"/> | <img src="./assets/responce_of_circuit_query.png" alt="UI on IBM Cloud" width="500"/> |
+| <img src="./assets/time_specific_plan.png" alt="UI on IBM Cloud" width="500"/>          | <img src="./assets/maharastra_hills.png" alt="UI on IBM Cloud" width="500"/>       | 
 | <img src="./assets/cultural_palce.png" alt="UI on IBM Cloud" width="500"/>              | <img src="./assets/ui_on_ibm_cloud.png" alt="UI on IBM Cloud" width="500"/>           |
-| <img src="./assets/Roadmap.png" alt="UI on IBM Cloud" width="500"/>                     | <img src="./assets/shimla_story.png" alt="UI on IBM Cloud" width="500"/>              |
+| <img src="./assets/weather_report.png" alt="UI on IBM Cloud" width="500"/>              | <img src="./assets/shimla_story.png" alt="UI on IBM Cloud" width="500"/>              |
 
 ---
 ---
@@ -81,9 +82,9 @@ flowchart TD
 ---
 ## 👨‍💻 Author
 
-|Profile                                                                                                   | Name                          | Role                                              | GitHub                                                            | LinkedIn                                                          |
-|----------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
-| [![Sami](https://github.com/saidulalimallick04.png?size=75)](https://github.com/saidulalimallick04)      | Saidul Ali Mallick (Sami)     | Backend Developer & AIML Engineer                 | [@saidulalimallick04](https://github.com/saidulalimallick04)      | [@saidulalimallick04](https://linkedin.com/in/saidulalimallick04) |
+|Profile                                                                                                   | Name                          | Role                                              | GitHub                                                            | LinkedIn                                                          | Leetcode                                                          | Youtube                                                           |
+|----------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| [![Sami](https://github.com/saidulalimallick04.png?size=75)](https://github.com/saidulalimallick04)      | Saidul Ali Mallick (Sami)     | Backend Developer & AIML Engineer                 | [@saidulalimallick04](https://github.com/saidulalimallick04)      | [@saidulalimallick04](https://linkedin.com/in/saidulalimallick04) | [@saidulalimallick04](https://leetcode.com/u/saidulalimallick04)  |  [@saidulalimallick04](https://www.youtube.com)                   |
 
 > ❤️ I believe in building impact, not just writing code.
 ---
